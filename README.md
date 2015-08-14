@@ -3,7 +3,7 @@ Examine various influences on Story point estimations
 
 
 
-Basic Idea:
+## Basic Ideas:
 - Estimate Size, Derive Duration
 - Story point estimation estimates relative effort (as we have to pay for effort - so thats what we want to know)
 - Time aspect comes in over the velocity
@@ -11,7 +11,7 @@ Basic Idea:
 
 ? Wie visualisiern?
 
-Project goals /ideas
+## Project goals /ideas
 
 - mitteln unterschiedliche Wege (last3, last 5, mean, median, ohne ausreißer)
 
@@ -24,13 +24,19 @@ Project goals /ideas
 - Team fluctuation
 
 
-Steps
-- define in Effort possible / Sprint
+## Steps
+- define
+  - project duration /total effort?
+  - Effort possible / Sprint
+  - define max effort bucket + max Stpts
+  
 - create random series of real work effort 
   - modify effort according to Influences
 - Calculate real total Sprints till completion
 - Create Stp estimations
+  - Differtn policies (mean, overflow policy)
   - modify effort according to Influences
+  
 
 - Calculate Velocity/Sprint + project forecast (total Sprints till completion) for every Sprint
   
